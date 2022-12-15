@@ -2607,7 +2607,10 @@
     "url": "/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%94%B7%E7%AF%AEvs%E7%A6%8F%E5%BB%BA%E7%94%B7%E7%AF%AE%23&t=31&band_rank=50&Refer=top",
     "title": "北京男篮vs福建男篮"
   },
-  { "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time", "title": "领航" },
+  {
+    "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time",
+    "title": "领航"
+  },
   {
     "url": "/weibo?q=%23%E7%BA%BD%E7%BA%A6%E5%A4%9A%E5%90%8D%E7%BB%BF%E8%89%B2%E8%BF%9E%E4%BD%93%E8%A1%A3%E5%A5%B3%E5%AD%90%E5%9C%B0%E9%93%81%E4%B8%8A%E6%8A%A2%E5%8A%AB%23&t=31&band_rank=4&Refer=top",
     "title": "纽约多名绿色连体衣女子地铁上抢劫"
